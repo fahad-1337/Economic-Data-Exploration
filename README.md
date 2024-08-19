@@ -10,10 +10,12 @@ https://github.com/fahad-1337/Economic-Data-Exploration/blob/c6256a46bd65508ac93
 
 
 Created a bar plot illustrating the unemployment rate during the COVID-19 pandemic in 2020.
+
 ![bar_plot](https://github.com/fahad-1337/Economic-Data-Exploration/blob/8c282fbcf7bfa43f8bbf79f8d6dd265a6a27ca10/bar_plot.png)
 
 
-Produced a comparative graph of labor force participation rates versus unemployment rates across various states, analyzing the relationship between these indicators.
+Produced a comparative graph of labor force participation rates versus unemployment rates across various states, highlighting the relationship between these indicators.
+
 ![sub_plot](https://github.com/fahad-1337/Economic-Data-Exploration/blob/8c282fbcf7bfa43f8bbf79f8d6dd265a6a27ca10/sub_plots.png)
 
 
