@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2130c873-de95-43ee-86d4-a1662cf98349)# Economic-Data-Exploration 
+# Economic-Data-Exploration 
 
 Conducted an exploratory analysis of U.S. economic data by extracting key indicators from the FRED API, focusing on unemployment and labor force participation rates. Retrieved multiple economic data sets and merged the datasets into cohesive DataFrames for thorough analysis. Cleaned the data and utilized Plotly to create interactive visualizations for detailed trend exploration.
 
