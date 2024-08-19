@@ -1,4 +1,4 @@
-# Economic-Data-Exploration 
+![image](https://github.com/user-attachments/assets/2130c873-de95-43ee-86d4-a1662cf98349)# Economic-Data-Exploration 
 
 Conducted an exploratory analysis of U.S. economic data by extracting key indicators from the FRED API, focusing on unemployment and labor force participation rates. Retrieved multiple economic data sets and merged the datasets into cohesive DataFrames for thorough analysis. Cleaned the data and utilized Plotly to create interactive visualizations for detailed trend exploration.
 
@@ -10,9 +10,11 @@ https://github.com/fahad-1337/Economic-Data-Exploration/blob/c6256a46bd65508ac93
 
 
 Created a bar plot illustrating the unemployment rate during the COVID-19 pandemic in 2020.
+![bar_plot](https://github.com/fahad-1337/Economic-Data-Exploration/blob/8c282fbcf7bfa43f8bbf79f8d6dd265a6a27ca10/bar_plot.png)
 
 
 Produced a comparative graph of labor force participation rates versus unemployment rates across various states, analyzing the relationship between these indicators.
+![sub_plot](https://github.com/fahad-1337/Economic-Data-Exploration/blob/8c282fbcf7bfa43f8bbf79f8d6dd265a6a27ca10/sub_plots.png)
 
 
-These visualizations provided a comprehensive view of the economic impact of unemployment across different time periods and states
+These visualizations provided a comprehensive view of the economic impact of unemployment across different time periods and states.
