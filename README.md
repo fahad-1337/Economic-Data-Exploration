@@ -5,6 +5,9 @@ Conducted an exploratory analysis of U.S. economic data by extracting key indica
 
 Developed an interactive graph comparing unemployment rates across different U.S. states from 1980 to 2024, highlighting long-term trends and state-level variations.
 
+![state_wise](https://github.com/fahad-1337/Economic-Data-Exploration/blob/c6256a46bd65508ac93abad956583e4137b736d3/state_wise_unemployment.png)
+https://github.com/fahad-1337/Economic-Data-Exploration/blob/c6256a46bd65508ac93abad956583e4137b736d3/state_wise_unemployment.png
+
 
 Created a bar plot illustrating the unemployment rate during the COVID-19 pandemic in 2020.
 
